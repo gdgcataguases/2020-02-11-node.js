@@ -1,7 +1,7 @@
-## Codelab - Nome da Apresentação
+## Talk - Node.js - Primeiros passos
 
 ### Descrição
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla scelerisque ullamcorper accumsan. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Vivamus iaculis mollis lobortis. Vivamus quis ex nec urna fermentum rhoncus vel ac orci.
+Material usado em apresentação no GDG Cataguases
 
-### Palestrante(s)
-- [ SEU NOME ](URL_PERFIL_OU_GIT)
+### Autor
+- [Danilo Abranches](https://github.com/daniloabranches)
